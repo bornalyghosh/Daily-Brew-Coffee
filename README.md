@@ -1,4 +1,4 @@
-Daily Brew Coffee – Power BI Dashboard
+#Daily Brew Coffee – Power BI Dashboard
 Designed and developed a 4‑page interactive Power BI dashboard for Daily Brew Coffee Ltd., transforming raw sales, customer, product, and staff data into actionable insights. The dashboard highlights:
 • 	Executive KPIs: revenue growth, store performance, basket size
 • 	Product & Promotion Analysis: top sellers, promo impact, margin trends
