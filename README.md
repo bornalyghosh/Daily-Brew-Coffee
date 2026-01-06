@@ -5,5 +5,6 @@ Designed and developed a 4‑page interactive Power BI dashboard for Daily Brew 
 • 	Customer & Loyalty Insights: lifetime value, repeat behavior, segmentation
 • 	Time & Staff Performance: peak sales hours, employee contribution
 Delivered a final Insights & Recommendations page summarizing trends, anomalies, and strategic actions to improve sales, optimize promotions, and strengthen customer retention.
-![Dashboard Screenshot](Daily Brew Coffee snap1.png) (Daily Brew Coffee snap2.png) (Daily Brew Coffee snap3.png) (Daily Brew Coffee snap4.png)
+![Dashboard Screenshot](Daily Brew Coffee snap1.png)
+(Daily Brew Coffee snap2.png) (Daily Brew Coffee snap3.png) (Daily Brew Coffee snap4.png)
 
